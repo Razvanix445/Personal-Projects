@@ -1,2 +1,2 @@
 # Personal-Projects
-- [Stardew-Valley-Fish-App-In-C++](https://github.com/Razvanix445/StardewValleyFishQT)
+- [Stardew Valley Fish App In C++ Using QT](https://github.com/Razvanix445/StardewValleyFishQT)
